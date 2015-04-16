@@ -75,7 +75,7 @@ In this example, it is assumed that all XLSX sheets being passed in are in the `
 
 ```js
 grunt.initConfig({
-  node_copytext: {
+  copytext: {
     base: {
       options: {},
       src: './test/fixtures/basic_keyvalue.xlsx',
