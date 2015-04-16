@@ -1,4 +1,4 @@
-# grunt-copytext
+# grunt-copytext [![Build Status](https://travis-ci.org/rdmurphy/grunt-copytext.svg?branch=master)](https://travis-ci.org/rdmurphy/grunt-copytext)
 
 > A Grunt plugin to convert a properly formatted XLSX spreadsheet into a JSON file for templates using the [`copytext`](https://github.com/rdmurphy/node-copytext) library.
 
