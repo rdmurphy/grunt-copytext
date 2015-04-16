@@ -1,0 +1,22 @@
+{
+  "CORGI": [
+    {
+      "name": "Winston",
+      "instagram_account": "https://instagram.com/winstonthewhitecorgi/",
+      "bio_md": "<p>Two-year-old Pembroke Welsh Corgi living in Los Angeles, CA.</p>\n"
+    },{
+      "name": "Tibby",
+      "instagram_account": "https://instagram.com/tibbythecorgi/",
+      "bio_md": "<p>Half lion, half corgi. A pinch of bunny.</p>\n"
+    },{
+      "name": "Poky",
+      "instagram_account": "https://instagram.com/poky_corgi/",
+      "bio_md": "<p>Pembroke Welsh Corgi living in northern Ontario, Canada.</p>\n"
+    }
+  ],
+  "SHIBA": {
+    "name": "Maru",
+    "instagram_account": "https://instagram.com/marutaro/",
+    "bio": "<p>My name is Maru. Breed of shiba.</p>\n"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "grunt-copytext",
+  "version": "1.0.0",
+  "description": "A Grunt plugin to convert a properly formatted XLSX spreadsheet into a JSON file for templates.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rdmurphy/grunt-copytext"
+  },
+  "author": "Ryan Murphy <ryan@rdmurphy.org>",
+  "keywords": [
+    "gruntplugin",
+    "copytext",
+    "xlsx",
+    "template",
+    "spreadsheet"
+  ],
+  "main": "Gruntfile.js",
+  "files": [
+    "tasks"
+  ],
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-jshint": "~0.8.0",
+    "grunt-contrib-nodeunit": "~0.3.0",
+    "grunt": "~0.4.5",
+    "jshint-stylish": "~0.1.5",
+    "load-grunt-tasks": "~0.3.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {
+    "chalk": "^1.0.0",
+    "copytext": "^1.0.3"
+  }
+}
